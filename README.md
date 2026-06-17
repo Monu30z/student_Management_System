@@ -17,8 +17,8 @@ A simple and efficient **Student Management System** built to manage student rec
 - HTML
 - CSS
 - JavaScript
-- (Add your database here, e.g., MySQL, MongoDB)
-- (Add backend technology here, e.g., Node.js, PHP, Java)
+- database MySQL
+- backend technology PHP
 
 ## 📂 Project Structure
 
